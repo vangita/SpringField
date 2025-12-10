@@ -33,7 +33,6 @@ characters_test/
 # Logs
 
 *.log
-training_history.json
 
 # OS files
 
