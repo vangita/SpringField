@@ -1,0 +1,46 @@
+# Git ignore file for Springfield Simpsons CNN project
+
+# Python cache files
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# PyTorch / TensorFlow / Keras model files
+
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# Dataset files (large folders)
+
+characters_train/
+characters_test/
+*.zip
+*.tar.gz
+
+# Logs
+
+*.log
+training_history.json
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE / editor settings
+
+.vscode/
+.idea/
