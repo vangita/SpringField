@@ -18,14 +18,14 @@ venv/
 
 # PyTorch / TensorFlow / Keras model files
 
-*.pth
+#*.pth
 *.pt
 *.h5
 *.ckpt
 
 # Dataset files (large folders)
 
-characters_train/
+#characters_train/
 characters_test/
 *.zip
 *.tar.gz
