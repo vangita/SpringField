@@ -1,0 +1,4298 @@
+{
+    "pic_0000.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0001.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0002.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0003.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0004.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0005.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0006.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0007.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0008.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0009.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0010.jpg": {
+        "predicted": "maggie_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0011.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0012.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0013.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0014.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0015.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0016.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0017.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0018.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0019.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0020.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0021.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0022.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0023.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0024.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0025.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0026.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0027.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0028.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0029.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0030.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0031.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0032.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0033.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0034.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0035.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0036.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0037.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0038.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0039.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0040.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0041.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0042.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0043.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0044.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0045.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0046.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0047.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0048.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0049.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0050.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0051.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0052.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0053.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0054.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0055.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0056.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0057.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0058.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0059.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0060.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0061.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0062.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0063.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0064.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0065.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0066.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0067.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0068.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0069.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0070.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0071.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0072.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0073.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0074.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0075.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0076.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0077.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0078.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0079.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0080.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0081.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0082.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0083.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0084.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0085.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0086.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0087.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0088.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0089.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0090.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0091.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0092.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0093.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0094.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0095.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0096.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0097.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0098.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0099.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0100.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0101.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0102.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0103.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0104.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0105.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0106.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0107.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0108.jpg": {
+        "predicted": "homer_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0109.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0110.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0111.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0112.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0113.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0114.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0115.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0116.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0117.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0118.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0119.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0120.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0121.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0122.jpg": {
+        "predicted": "maggie_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0123.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0124.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0125.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0126.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0127.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0128.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0129.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0130.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0131.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0132.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0133.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0134.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0135.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0136.jpg": {
+        "predicted": "lisa_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0137.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0138.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0139.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0140.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0141.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0142.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0143.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0144.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0145.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0146.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0147.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0148.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0149.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0150.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0151.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0152.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0153.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0154.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0155.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0156.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0157.jpg": {
+        "predicted": "homer_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0158.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0159.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0160.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0161.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0162.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0163.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0164.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0165.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0166.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0167.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0168.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0169.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0170.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0171.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0172.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0173.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0174.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0175.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0176.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0177.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0178.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0179.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0180.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0181.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0182.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0183.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0184.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0185.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0186.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0187.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0188.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0189.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0190.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0191.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0192.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0193.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0194.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0195.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0196.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0197.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0198.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0199.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0200.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0201.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0202.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0203.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0204.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0205.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0206.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0207.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0208.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0209.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0210.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0211.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0212.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0213.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0214.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0215.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0216.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0217.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0218.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0219.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0220.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0221.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0222.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0223.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0224.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0225.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0226.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0227.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0228.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0229.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0230.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0231.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0232.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0233.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0234.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0235.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0236.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0237.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0238.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0239.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0240.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0241.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0242.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0243.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0244.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0245.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0246.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0247.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0248.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0249.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0250.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0251.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0252.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0253.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0254.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0255.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0256.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0257.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0258.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0259.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0260.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0261.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0262.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0263.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0264.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0265.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0266.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0267.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0268.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0269.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0270.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0271.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0272.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0273.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0274.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0275.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0276.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0277.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0278.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0279.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0280.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0281.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0282.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0283.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0284.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0285.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0286.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0287.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0288.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0289.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0290.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0291.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0292.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0293.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0294.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0295.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0296.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0297.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0298.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0299.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0300.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0301.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0302.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0303.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0304.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0305.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0306.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0307.jpg": {
+        "predicted": "charles_montgomery_burns",
+        "true_label": "bart_simpson"
+    },
+    "pic_0308.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0309.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0310.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0311.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0312.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0313.jpg": {
+        "predicted": "lisa_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0314.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0315.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0316.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0317.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0318.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0319.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0320.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0321.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0322.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0323.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0324.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0325.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0326.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0327.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0328.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0329.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0330.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0331.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0332.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0333.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0334.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0335.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0336.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0337.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0338.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0339.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0340.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0341.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0342.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0343.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0344.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0345.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0346.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0347.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0348.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0349.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0350.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0351.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0352.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0353.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0354.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0355.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0356.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0357.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0358.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0359.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0360.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0361.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0362.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0363.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0364.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0365.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0366.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0367.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0368.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0369.jpg": {
+        "predicted": "selma_bouvier",
+        "true_label": "bart_simpson"
+    },
+    "pic_0370.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0371.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0372.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0373.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0374.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0375.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0376.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0377.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0378.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0379.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0380.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0381.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0382.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0383.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0384.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0385.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0386.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0387.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0388.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0389.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0390.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0391.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0392.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0393.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0394.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0395.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0396.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0397.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0398.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0399.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0400.jpg": {
+        "predicted": "lisa_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0401.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0402.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0403.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0404.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0405.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0406.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0407.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0408.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0409.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0410.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0411.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0412.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0413.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0414.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0415.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0416.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0417.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0418.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0419.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0420.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0421.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0422.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0423.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0424.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0425.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0426.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0427.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0428.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0429.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0430.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0431.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0432.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0433.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0434.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0435.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0436.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0437.jpg": {
+        "predicted": "homer_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0438.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0439.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0440.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0441.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0442.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0443.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0444.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0445.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0446.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0447.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0448.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0449.jpg": {
+        "predicted": "lisa_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0450.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0451.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0452.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0453.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0454.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0455.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0456.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0457.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0458.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0459.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0460.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0461.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0462.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0463.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0464.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0465.jpg": {
+        "predicted": "lisa_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0466.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0467.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0468.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0469.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0470.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0471.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0472.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0473.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0474.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0475.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0476.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0477.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0478.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0479.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0480.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0481.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0482.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0483.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0484.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0485.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0486.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0487.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0488.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0489.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0490.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0491.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0492.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0493.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0494.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0495.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0496.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0497.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0498.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0499.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0500.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0501.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0502.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0503.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0504.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0505.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0506.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0507.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0508.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0509.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0510.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0511.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0512.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0513.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0514.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0515.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0516.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0517.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0518.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0519.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0520.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0521.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0522.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0523.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0524.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0525.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0526.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0527.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0528.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0529.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0530.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0531.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0532.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0533.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0534.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0535.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0536.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0537.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0538.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0539.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0540.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0541.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0542.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0543.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0544.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0545.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0546.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0547.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0548.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0549.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0550.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0551.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0552.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0553.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0554.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0555.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0556.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0557.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0558.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0559.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0560.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0561.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0562.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0563.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0564.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0565.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0566.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0567.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0568.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0569.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0570.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0571.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0572.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0573.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0574.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0575.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0576.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0577.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0578.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0579.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0580.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0581.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0582.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0583.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0584.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0585.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0586.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0587.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0588.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0589.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0590.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0591.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0592.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0593.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0594.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0595.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0596.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0597.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0598.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0599.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0600.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0601.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0602.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0603.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0604.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0605.jpg": {
+        "predicted": "ned_flanders",
+        "true_label": "bart_simpson"
+    },
+    "pic_0606.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0607.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0608.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0609.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0610.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0611.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0612.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0613.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0614.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0615.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0616.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0617.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0618.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0619.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0620.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0621.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0622.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0623.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0624.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0625.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0626.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0627.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0628.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0629.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0630.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0631.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0632.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0633.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0634.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0635.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0636.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0637.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0638.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0639.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0640.jpg": {
+        "predicted": "ned_flanders",
+        "true_label": "bart_simpson"
+    },
+    "pic_0641.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0642.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0643.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0644.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0645.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0646.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0647.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0648.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0649.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0650.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0651.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0652.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0653.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0654.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0655.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0656.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0657.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0658.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0659.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0660.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0661.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0662.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0663.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0664.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0665.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0666.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0667.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0668.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0669.jpg": {
+        "predicted": "edna_krabappel",
+        "true_label": "bart_simpson"
+    },
+    "pic_0670.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0671.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0672.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0673.jpg": {
+        "predicted": "lisa_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0674.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0675.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0676.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0677.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0678.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0679.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0680.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0681.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0682.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0683.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0684.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0685.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0686.jpg": {
+        "predicted": "krusty_the_clown",
+        "true_label": "bart_simpson"
+    },
+    "pic_0687.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0688.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0689.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0690.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0691.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0692.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0693.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0694.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0695.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0696.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0697.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0698.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0699.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0700.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0701.jpg": {
+        "predicted": "homer_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0702.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0703.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0704.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0705.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0706.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0707.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0708.jpg": {
+        "predicted": "homer_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0709.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0710.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0711.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0712.jpg": {
+        "predicted": "lisa_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0713.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0714.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0715.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0716.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0717.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0718.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0719.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0720.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0721.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0722.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0723.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0724.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0725.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0726.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0727.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0728.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0729.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0730.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0731.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0732.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0733.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0734.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0735.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0736.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0737.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0738.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0739.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0740.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0741.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0742.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0743.jpg": {
+        "predicted": "homer_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0744.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0745.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0746.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0747.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0748.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0749.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0750.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0751.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0752.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0753.jpg": {
+        "predicted": "lisa_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0754.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0755.jpg": {
+        "predicted": "lisa_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0756.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0757.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0758.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0759.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0760.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0761.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0762.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0763.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0764.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0765.jpg": {
+        "predicted": "homer_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0766.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0767.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0768.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0769.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0770.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0771.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0772.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0773.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0774.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0775.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0776.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0777.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0778.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0779.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0780.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0781.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0782.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0783.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0784.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0785.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0786.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0787.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0788.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0789.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0790.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0791.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0792.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0793.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0794.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0795.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0796.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0797.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0798.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0799.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0800.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0801.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0802.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0803.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0804.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0805.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0806.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0807.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0808.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0809.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0810.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0811.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0812.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0813.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0814.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0815.jpg": {
+        "predicted": "maggie_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0816.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0817.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0818.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0819.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0820.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0821.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0822.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0823.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0824.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0825.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0826.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0827.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0828.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0829.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0830.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0831.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0832.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0833.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0834.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0835.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0836.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0837.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0838.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0839.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0840.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0841.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0842.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0843.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0844.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0845.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0846.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0847.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0848.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0849.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0850.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0851.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0852.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0853.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0854.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0855.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0856.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0857.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0858.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0859.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0860.jpg": {
+        "predicted": "chief_wiggum",
+        "true_label": "bart_simpson"
+    },
+    "pic_0861.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0862.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0863.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0864.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0865.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0866.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0867.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0868.jpg": {
+        "predicted": "lisa_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0869.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0870.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0871.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0872.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0873.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0874.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0875.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0876.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0877.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0878.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0879.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0880.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0881.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0882.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0883.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0884.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0885.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0886.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0887.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0888.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0889.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0890.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0891.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0892.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0893.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0894.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0895.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0896.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0897.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0898.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0899.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0900.jpg": {
+        "predicted": "lisa_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0901.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0902.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0903.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0904.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0905.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0906.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0907.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0908.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0909.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0910.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0911.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0912.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0913.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0914.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0915.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0916.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0917.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0918.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0919.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0920.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0921.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0922.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0923.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0924.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0925.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0926.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0927.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0928.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0929.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0930.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0931.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0932.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0933.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0934.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0935.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0936.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0937.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0938.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0939.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0940.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0941.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0942.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0943.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0944.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0945.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0946.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0947.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0948.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0949.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0950.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0951.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0952.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0953.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0954.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0955.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0956.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0957.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0958.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0959.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0960.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0961.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0962.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0963.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0964.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0965.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0966.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0967.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0968.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0969.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0970.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0971.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0972.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0973.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0974.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0975.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0976.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0977.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0978.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0979.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0980.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0981.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0982.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0983.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0984.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0985.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0986.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0987.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0988.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0989.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0990.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0991.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0992.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0993.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0994.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0995.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0996.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0997.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0998.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_0999.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1000.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1001.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1002.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1003.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1004.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1005.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1006.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1007.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1008.jpg": {
+        "predicted": "lisa_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1009.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1010.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1011.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1012.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1013.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1014.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1015.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1016.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1017.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1018.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1019.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1020.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1021.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1022.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1023.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1024.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1025.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1026.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1027.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1028.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1029.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1030.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1031.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1032.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1033.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1034.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1035.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1036.jpg": {
+        "predicted": "lisa_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1037.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1038.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1039.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1040.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1041.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1042.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1043.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1044.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1045.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1046.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1047.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1048.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1049.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1050.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1051.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1052.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1053.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1054.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1055.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1056.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1057.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1058.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1059.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1060.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1061.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1062.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1063.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1064.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1065.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1066.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1067.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1068.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1069.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1070.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1071.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1072.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    },
+    "pic_1073.jpg": {
+        "predicted": "bart_simpson",
+        "true_label": "bart_simpson"
+    }
+}
